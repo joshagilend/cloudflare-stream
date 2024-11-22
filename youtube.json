@@ -1,0 +1,46 @@
+{
+  "uid": "b14ece4aa2dfd7cb0a8a61268d77a78e",
+  "creator": null,
+  "thumbnail": "https://customer-kzkg8zmk39kl9bsh.cloudflarestream.com/b14ece4aa2dfd7cb0a8a61268d77a78e/thumbnails/thumbnail.jpg",
+  "thumbnailTimestampPct": 0,
+  "readyToStream": false,
+  "readyToStreamAt": null,
+  "status": {
+    "state": "error",
+    "step": "fetching",
+    "errorReasonCode": "ERR_UNKNOWN",
+    "errorReasonText": "The video failed to be encoded due to an unknown cause."
+  },
+  "meta": {
+    "downloaded-from": "https://youtu.be/ZlLJ461Wgn0",
+    "name": "ZlLJ461Wgn0"
+  },
+  "created": "2024-11-22T09:17:11.621661Z",
+  "modified": "2024-11-22T09:17:18.229154Z",
+  "scheduledDeletion": null,
+  "size": 1098220,
+  "preview": "https://customer-kzkg8zmk39kl9bsh.cloudflarestream.com/b14ece4aa2dfd7cb0a8a61268d77a78e/watch",
+  "allowedOrigins": [],
+  "requireSignedURLs": false,
+  "uploaded": "2024-11-22T09:17:11.621637Z",
+  "uploadExpiry": null,
+  "maxSizeBytes": null,
+  "maxDurationSeconds": null,
+  "duration": -1,
+  "input": {
+    "width": -1,
+    "height": -1
+  },
+  "playback": {
+    "hls": "https://customer-kzkg8zmk39kl9bsh.cloudflarestream.com/b14ece4aa2dfd7cb0a8a61268d77a78e/manifest/video.m3u8",
+    "dash": "https://customer-kzkg8zmk39kl9bsh.cloudflarestream.com/b14ece4aa2dfd7cb0a8a61268d77a78e/manifest/video.mpd"
+  },
+  "watermark": null,
+  "clippedFrom": null,
+  "publicDetails": {
+    "title": "",
+    "share_link": "",
+    "channel_link": "",
+    "logo": ""
+  }
+}
